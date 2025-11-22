@@ -1,3 +1,27 @@
 {
-  "MAZE": ["VERIFIED STABLECOIN"]
+  "styles": {
+    "VERIFIED STABLECOIN": {
+      bg: "#147a00",
+      text: "#ffffff",
+      tooltip: "This coin has been extensively vetted as a stable, safe coin. It does not fluctuate by much."
+    },
+    "VOLATILE": {
+      bg: "#b55800",
+      text: "#ffffff",
+      tooltip: "This coin is highly volatile, it regularly fluctuates in value!"
+    },
+    "BOTTED": {
+      bg: "#b51e00",
+      text: "#ffffff",
+      tooltip: "This coin is likely botted, beware it may skyrocket or crash spontaneously!"
+    },
+    "DEFAULT": {
+      bg: "#808080",
+      text: "#ffffff",
+      tooltip: "This coin has been given honours, the exact reason why isn't known."
+    }
+  },
+  "tags": {
+    "MAZE": ["VERIFIED STABLECOIN"]
+  }
 }
