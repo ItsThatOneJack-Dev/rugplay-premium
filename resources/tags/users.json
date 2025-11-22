@@ -1,4 +1,38 @@
 {
-  "itoj": ["RUGPLAY PREMIUM DEVELOPER", "PRECURSOR DEVELOPER", "PRECURSOR CONTRIBUTOR"],
-  "vaaq": ["RUGPLAY PREMIUM CONTRIBUTOR", "PRECURSOR DEVELOPER", "PRECURSOR CONTRIBUTOR"]
+  "styles": {
+    "RUGPLAY PREMIUM DEVELOPER": {
+      bg: "#6a0dad",
+      text: "#ffffff",
+      tooltip: "This person developed Rugplay Premium!"
+    },
+    "RUGPLAY PREMIUM CONTRIBUTOR": {
+      bg: "#24013d",
+      text: "#ffffff",
+      tooltip: "This person contributed to Rugplay Premium!"
+    },
+    "PRECURSOR DEVELOPER": {
+      bg: "#6a0dad",
+      text: "#ffffff",
+      tooltip: "This person developed a precursor of Rugplay Premium!"
+    },
+    "PRECURSOR CONTRIBUTOR": {
+      bg: "#24013d",
+      text: "#ffffff",
+      tooltip: "This person contributed to a precursor of Rugplay Premium!"
+    },
+    "SUSPECTED ROBOT": {
+      bg: "#05869c",
+      text: "#ffffff",
+      tooltip: "This person is suspected of automating their trades."
+    },
+    "DEFAULT": {
+      bg: "#808080",
+      text: "#ffffff",
+      tooltip: "This person has been given honours, the exact reason why isn't known."
+    }
+  },
+  "tags": {
+    "itoj": ["RUGPLAY PREMIUM DEVELOPER", "PRECURSOR DEVELOPER", "PRECURSOR CONTRIBUTOR"],
+    "vaaq": ["RUGPLAY PREMIUM CONTRIBUTOR", "PRECURSOR DEVELOPER", "PRECURSOR CONTRIBUTOR"]
+  }
 }
